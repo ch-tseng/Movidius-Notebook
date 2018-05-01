@@ -1,0 +1,2 @@
+# Movidius-Notebook
+Movidius stick
